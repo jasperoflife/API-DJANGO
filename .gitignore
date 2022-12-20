@@ -1,0 +1,6 @@
+static_root
+media_root
+.envir
+.venv
+envir/
+venv/
